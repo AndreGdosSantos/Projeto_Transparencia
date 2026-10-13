@@ -1,0 +1,6 @@
+psycopg2-binary==2.9.9
+pandas==2.2.1
+requests==2.31.0
+matplotlib==3.8.3
+ipykernel==6.29.3
+gdown==5.1.0
